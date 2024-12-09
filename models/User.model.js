@@ -22,7 +22,7 @@ const userSchema = new Schema({
     type: String,
     default: 'user',
     enum: ['user', 'admin']
-  }, // Role-based access
+  },
 
   profileImageUrl: {
     type: String
