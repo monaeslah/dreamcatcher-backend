@@ -2,7 +2,7 @@
 
 This is the backend for the **DreamCatcher** application, a platform where users can log, analyze, and explore their dreams. The backend is built with **Express.js** and provides a RESTful API for managing user profiles, dreams, comments, and analytics.
 
-The frontend repository can be found here: [DreamCatcher Frontend](https://github.com/Fabulous-project/dreamCatcher).
+The frontend repository can be found here: [DreamCatcher Frontend](https://github.com/monaeslah/dreamcatcher-ui).
 
 ![DreamCatcher UI](./image/Screenshot%202024-11-29%20at%2011.44.47.png)
 
